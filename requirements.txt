@@ -1,0 +1,13 @@
+flask==2.3.3
+pandas==2.2.2
+joblib==1.4.2
+folium==0.16.0
+scikit-learn
+xgboost
+reportlab
+weasyprint==2.0.3
+python-dateutil==2.9.0.post0
+matplotlib==3.8.4
+seaborn==0.13.2
+Jinja2==3.1.4
+Werkzeug==2.3.7
